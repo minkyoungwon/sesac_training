@@ -1,0 +1,1 @@
+console.log("끼룩끼룩")
